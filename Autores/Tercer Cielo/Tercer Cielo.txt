@@ -1,0 +1,10 @@
+1100 Eres - Tercer Cielo (MIDI Edgar Franco)(Rock).mid -> Eres - Tercer Cielo(🎹Edgar F.).mid
+1100M Eres - Tercer Cielo (MIDI Edgar Franco)(Rock).mid -> Eres - Tercer Cielo(🎹Edgar F.)M.mid
+1194 Heroe - Tercer Cielo (MIDI Jefersson Zapata)(Rock).mid -> Heroe - Tercer Cielo(🎹Jefersson Z.).mid
+1214 Llueve - Tercer Cielo (MIDI Edgar Franco)(Balada).mid -> Llueve - Tercer Cielo(🎹Edgar F.).mid
+1214M Llueve - Tercer Cielo (MIDI Edgar Franco)(Balada).mid -> Llueve - Tercer Cielo(🎹Edgar F.)M.mid
+1404 Estare - Tercer Cielo (MIDI Jefferson Zapata)(Pop).mid -> Estare - Tercer Cielo(🎹Jefferson Z.).mid
+1428 Final del camino - Tercer Cielo (MIDI Jefferson Zapata)(Rock).mid -> Final del camino - Tercer Cielo(🎹Jefferson Z.).mid
+1453 Espiritu Santo - Tercer Cielo (MIDI Edgar Franco)(Balada).mid -> Espiritu Santo - Tercer Cielo(🎹Edgar F.).mid
+1453M Espiritu Santo - Tercer Cielo (MIDI Edgar Franco)(Balada).mid -> Espiritu Santo - Tercer Cielo(🎹Edgar F.)M.mid
+519 Cuando el amor se va - Tercer Cielo (MIDI Edgar Sanchez)(Balada).mid -> Cuando el amor se va - Tercer Cielo(🎹Edgar S.).mid
